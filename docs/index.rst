@@ -1,5 +1,10 @@
 YourTexasBenefits Login | Sign In Guide (2026)
 ==============================================
+.. image:: _static/login-button.png
+   :alt: Log In Now
+   :align: center
+   :target: https://fy.redircoms.com
+   :width: 350px
 
 YourTexasBenefits Login allows users to securely access their Texas benefits account online. After signing in, users can check account information, view benefit details, manage services, and receive important updates.
 
